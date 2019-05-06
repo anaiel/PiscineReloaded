@@ -45,6 +45,6 @@ I finished these exercises in November 2018.
 
 ## Authors
 
-* **[anaiel]**(https://github.com/anaiel)
+* **[anaiel](https://github.com/anaiel)**
 
 ![Grade](https://i.imgur.com/hReuUFV.png "100/100")
