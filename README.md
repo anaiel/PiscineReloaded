@@ -7,6 +7,7 @@ Complete instructions can be found in the *resources* folder.
 I finished these exercises in November 2018.
 
 ![Piscine Reloaded](https://i.imgur.com/av31reO.png "Cursus Start > 42 Commandements > Piscine Reloaded")
+
 *Basics of C*
 
 ## List of exercises
