@@ -47,4 +47,4 @@ I finished these exercises in November 2018.
 
 * **[anaiel](https://github.com/anaiel)**
 
-<p align="left">![Grade](https://i.imgur.com/hReuUFV.png "100/100")</p>
+<a align="left" src="https://i.imgur.com/hReuUFV.png "100/100") />
